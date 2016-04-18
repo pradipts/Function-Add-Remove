@@ -12,8 +12,8 @@
         <td>Outlet</td>
     </tr>
     <tr>
-        <td>A <input type="submit" id="add" onclick="add()">Add</input></td>
-        <td> <input type="submit" id="add" onclick="add() value="hidden">Delete</input></td>
+        <td>Setiabudhi <input type="submit" id="add" onclick="add()">Add</input></td>
+        <td> <input type="submit" id="remove" onclick="remove()" value="hidden">Delete</input></td>
     </tr>
 </table>
 
